@@ -1,7 +1,7 @@
 # Deep-Learning-GAN-Python
 
 **S01** GAN implementation (MNIST handwritten digit dataset)
-
+**S0۲** DCGAN implementation (MNIST handwritten digit dataset)
 
 #### What are Generative Adversarial Networks?
 

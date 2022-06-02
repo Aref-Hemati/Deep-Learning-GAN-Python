@@ -1,1 +1,1 @@
-**GAN implementation (mnist handwritten digit dataset)**
+**GAN implementation (MNIST handwritten digit dataset)**

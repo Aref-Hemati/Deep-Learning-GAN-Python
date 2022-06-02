@@ -1,9 +1,9 @@
 # Deep-Learning-GAN-Python
 
-**S01** GAN implementation (mnist handwritten digit dataset)
+**S01** GAN implementation (MNIST handwritten digit dataset)
 
 
-**What are Generative Adversarial Networks?**
+#### What are Generative Adversarial Networks?
 
 Generative Adversarial Networks (GANs) were introduced in 2014 by Ian J. Goodfellow and co-authors. GANs perform unsupervised learning tasks in machine learning. It consists of 2 models that automatically discover and learn the patterns in input data. 
 

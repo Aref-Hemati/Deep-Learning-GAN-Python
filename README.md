@@ -6,6 +6,8 @@
 
 **S03** Semi-supervised GAN implementation (MNIST handwritten digit dataset)
 
+**S04** Conditional GAN implementation (MNIST handwritten digit dataset)
+
 #### What are Generative Adversarial Networks?
 
 Generative Adversarial Networks (GANs) were introduced in 2014 by Ian J. Goodfellow and co-authors. GANs perform unsupervised learning tasks in machine learning. It consists of 2 models that automatically discover and learn the patterns in input data. 
